@@ -1,0 +1,41 @@
+.top{
+    margin-top: 100px;
+    margin-left: 140px;
+    font-size: 64px;
+    color: #BDBDBD;
+}
+.bottom{
+    margin-left: 140px;
+    font-size: 64px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 90px;
+}
+.projectscontainer{
+    width: 85%;
+    margin: 0 auto;
+}
+.projects{
+    display: flex;
+    gap: 30px;
+    background-color: #FBFBFB;
+    padding-bottom: 60px;
+}
+.rightside h2{
+    font-size: 40px;
+    color: #BDBDBD;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.rightside p{
+    line-height: 25px;
+    width: 400px;
+    padding-bottom: 120px;
+}
+.projectscontainer a{
+    background-color: #FFFFFF;
+    opacity: 0.9;
+    color: #333333;
+    padding: 20px 60px;
+    border-radius: 4px;
+}

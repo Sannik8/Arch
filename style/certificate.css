@@ -1,0 +1,20 @@
+.top{
+    margin-top: 100px;
+    margin-left: 140px;
+    font-size: 64px;
+    color: #BDBDBD;
+}
+.bottom{
+    margin-left: 140px;
+    font-size: 64px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 90px;
+}
+.cert{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+    gap: 80px;
+    margin-bottom: 180px;
+}

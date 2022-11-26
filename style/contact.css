@@ -1,0 +1,43 @@
+.contactinfo{
+    display: flex;
+    width: 85%;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-bottom: 120px;
+}
+.top{
+    font-size: 64px;
+    color: #BDBDBD;
+    padding-top: 30px;
+}
+.bottom{
+    font-size: 64px;
+    font-weight: 700;
+    color: #000000;
+    padding-bottom: 30px;
+}
+.pbold{
+    color: #000000;
+    font-size: 18px;
+    font-weight: 700;
+}
+.plight{
+    font-weight: 300;
+    padding-bottom: 40px;
+}
+.mobnumber{
+    font-weight: 700;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+.emailaddres{
+    font-weight: 300;
+    padding-bottom: 40px;
+}
+.contactinfo a{
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px 60px;
+    border-radius: 4px;
+}
